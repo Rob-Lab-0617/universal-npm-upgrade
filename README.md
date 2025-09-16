@@ -158,4 +158,6 @@ MIT License - Use freely for personal or commercial projects.
 
 ---
 
-**Made with ❤️ for developers who forget npm package names**
+**Made with ❤️ by [Don Mecca](https://stackbounty.com) - AI tools and SaaS app reviews**
+
+*For developers who forget npm package names*
