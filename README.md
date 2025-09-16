@@ -28,7 +28,7 @@ A simple, powerful shell-based tool that makes upgrading npm CLI packages as eas
 
 ```bash
 # Clone this repo
-git clone <your-repo-url>
+git clone https://github.com/DonMecca/universal-npm-upgrade.git
 cd universal-npm-upgrade
 
 # Run the installer
